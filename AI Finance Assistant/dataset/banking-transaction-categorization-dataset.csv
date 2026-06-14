@@ -1,0 +1,201 @@
+transaction_id,account_id,transaction_date,transaction_time,amount,currency,merchant_name,merchant_category_code,transaction_description,category,subcategory,transaction_type,is_recurring,recurring_frequency,balance_after_transaction,location_city,location_state,location_country
+TXN000001,ACC10001,03/04/2024,10:19:32,-112.79,USD,Whole Foods Market,5411,Whole Foods Market San Francisco CA,Groceries,Supermarkets,debit,FALSE,,1958.21,San Francisco,CA,USA
+TXN000002,ACC10002,31/03/2024,8:38:09,2320,USD,ACME Payroll,0,ACME Payroll Direct Deposit,Salary,,credit,TRUE,monthly,4103.55,,,USA
+TXN000003,ACC10003,04/04/2024,12:12:44,-46,USD,Uber,4121,Uber trip CA3245,Transportation,Taxi/Rideshare,debit,FALSE,,320.12,Los Angeles,CA,USA
+TXN000004,ACC10001,05/04/2024,16:03:23,-1200,USD,Sunset Villas,6513,Sunset Villas Monthly Rent,Rent,Apartment,payment,TRUE,monthly,758.21,Oakland,CA,USA
+TXN000005,ACC10004,01/04/2024,19:21:07,-85.45,USD,Comcast,4899,Comcast Internet Bill,Utilities,Internet,debit,TRUE,monthly,1420.4,Seattle,WA,USA
+TXN000006,ACC10005,02/04/2024,11:42:16,-13.68,USD,Starbucks,5814,Starbucks Coffee #32 Austin TX,Food & Drink,Coffee Shops,debit,FALSE,,524.38,Austin,TX,USA
+TXN000007,ACC10006,30/03/2024,9:12:01,-65,USD,PG&E,4900,PG&E Utility Payment,Utilities,Electricity,payment,TRUE,monthly,1185,San Jose,CA,USA
+TXN000008,ACC10006,01/04/2024,18:01:45,150,USD,Venmo,4829,Venmo Transfer from friend,Transfer,Peer-to-peer,deposit,FALSE,,1335,,,USA
+TXN000009,ACC10007,03/04/2024,13:33:51,-22.1,USD,Netflix,4899,Netflix Monthly Subscription,Entertainment,Subscriptions,debit,TRUE,monthly,297.58,Chicago,IL,USA
+TXN000010,ACC10008,04/04/2024,15:28:26,-45,USD,24 Hour Fitness,7991,24 Hour Fitness Gym Fee,Other,Fitness,payment,FALSE,,402.1,Houston,TX,USA
+TXN000011,ACC10009,29/03/2024,20:11:50,-14.93,USD,Chipotle,5812,Chipotle Order 2024-03-29,Food & Drink,Fast Food,debit,FALSE,,1132.74,Chicago,IL,USA
+TXN000012,ACC10010,02/04/2024,17:05:08,-22,USD,AMC Theatres,7832,AMC Movie Night,Entertainment,Movies,debit,FALSE,,180,Seattle,WA,USA
+TXN000013,ACC10002,05/04/2024,10:14:51,0,USD,,,System Test Transaction,Other,,deposit,FALSE,,4103.55,,,USA
+TXN000014,ACC10007,02/04/2024,7:51:22,-3.5,USD,,,ATM Withdrawal Fee,Fees,ATM,debit,FALSE,,294.08,,,USA
+TXN000015,ACC10011,03/04/2024,12:01:00,50,EUR,Apple Store,5732,Apple Store Paris Refund,Refund,Electronics,credit,FALSE,,670,Paris,,FRA
+TXN000016,ACC10012,28/03/2024,14:25:36,-870,EUR,IKEA,5712,IKEA Furniture Purchase,Home,Furniture,debit,FALSE,,330,Paris,,FRA
+TXN000017,ACC10013,04/04/2024,22:37:57,-15,USD,Spotify,4899,Spotify Premium Subscription,Entertainment,Music,debit,TRUE,monthly,2500,Austin,TX,USA
+TXN000018,ACC10014,01/04/2024,6:01:22,-8.99,USD,,,Monthly Account Maintenance Fee,Fees,Account Maintenance,debit,TRUE,monthly,892,,,USA
+TXN000019,ACC10015,02/04/2024,17:44:03,-142,USD,Safeway,5411,Safeway Grocery Shopping,Groceries,Supermarkets,debit,FALSE,,121.43,Phoenix,AZ,USA
+TXN000020,ACC10016,31/03/2024,10:29:15,-230,USD,Blue Cross Health,6300,Blue Cross Health Insurance,Insurance,Health,debit,TRUE,monthly,802,San Francisco,CA,USA
+TXN000021,ACC10017,04/04/2024,11:30:50,-225,USD,State Farm,6300,State Farm Auto Insurance,Insurance,Auto,payment,TRUE,monthly,1090,Chicago,IL,USA
+TXN000022,ACC10018,05/04/2024,15:34:26,-17.25,USD,Uber Eats,5812,Uber Eats Delivery,Food & Drink,Delivery,debit,FALSE,,240.85,Seattle,WA,USA
+TXN000023,ACC10019,27/03/2024,13:33:15,-3200,EUR,AlpenResort,7011,AlpenResort Booking Zermatt,Travel,Hotels,debit,FALSE,,2100,Zermatt,,CHE
+TXN000024,ACC10011,02/04/2024,8:41:44,0.01,EUR,,,Test Micro Deposit,Other,,deposit,FALSE,,670.01,,,FRA
+TXN000025,ACC10020,05/04/2024,18:55:09,-18.99,USD,Bank of America,6011,Bank Card Replacement Fee,Fees,Card Replacement,debit,FALSE,,1456.87,,,USA
+TXN000026,ACC10021,04/04/2024,15:09:31,1000,USD,Chase Bank,6010,Chase Bank Deposit,Income,Bank Transfer,deposit,FALSE,,2300,Los Angeles,CA,USA
+TXN000027,ACC10022,28/03/2024,,-12.5,USD,,,Funds Transfer Out,Transfer,Internal,transfer,FALSE,,810,,,USA
+TXN000028,ACC10023,05/04/2024,17:27:14,-109.25,USD,Trader Joe's,5411,Trader Joe's Grocery,Groceries,Supermarkets,debit,FALSE,,209.78,San Francisco,CA,USA
+TXN000029,ACC10024,01/04/2024,11:49:38,-7.5,USD,Venmo,4829,Venmo Transfer Fee,Fees,Transfer Fee,debit,FALSE,,500,,,USA
+TXN000030,ACC10025,29/03/2024,14:42:55,450,USD,IRS,9311,IRS Tax Refund,Refund,Tax,credit,FALSE,,702,,,USA
+TXN000031,ACC10026,03/04/2024,19:18:13,-33.4,USD,CVS Pharmacy,5912,CVS Pharmacy Purchase,Home,Personal Care,debit,FALSE,,345,New York,NY,USA
+TXN000032,ACC10027,04/04/2024,9:37:29,-23.25,USD,Lyft,4121,Lyft Ride SF,Transportation,Taxi/Rideshare,debit,FALSE,,560,San Francisco,CA,USA
+TXN000033,ACC10028,30/03/2024,21:44:52,200,JPY,Lotto Corp,7995,Lotto Corp Prize,Income,Lottery,credit,FALSE,,450,Tokyo,,JPN
+TXN000034,ACC10029,02/04/2024,18:27:39,-90,CHF,Coop,5411,Coop Groceries Zurich,Groceries,Supermarkets,debit,FALSE,,340,Zurich,,CHE
+TXN000035,ACC10030,31/03/2024,,-0.01,USD,,,Test Micro Debit,Other,,debit,FALSE,,1000,,,USA
+TXN000036,ACC10031,03/04/2024,16:23:08,-120,USD,Allianz,6300,Allianz Insurance Payment,Insurance,Travel,payment,FALSE,,259,Munich,,DEU
+TXN000037,ACC10032,01/04/2024,14:48:27,1200,USD,Bank of America,6011,Bank of America Deposit,Income,Bank Transfer,deposit,FALSE,,1750,Los Angeles,CA,USA
+TXN000038,ACC10033,29/03/2024,,-2.99,USD,,,Overdraft Fee,Fees,Overdraft,debit,FALSE,,60,,,USA
+TXN000039,ACC10034,05/04/2024,13:58:10,-65,USD,PG&E,4900,PG&E Utility Payment,Utilities,Electricity,payment,TRUE,monthly,134,Oakland,CA,USA
+TXN000040,ACC10035,03/04/2024,8:03:52,-91.56,USD,Safeway,5411,Safeway Grocery Shopping,Groceries,Supermarkets,debit,FALSE,,301.29,Seattle,WA,USA
+TXN000041,ACC10036,28/03/2024,10:38:40,1200,USD,ACME Payroll,0,Payroll Deposit,Salary,,deposit,TRUE,monthly,2210,,,USA
+TXN000042,ACC10037,01/04/2024,9:09:17,-13.99,USD,Peet's Coffee,5814,Peet's Coffee SF,Food & Drink,Coffee Shops,debit,FALSE,,478,San Francisco,CA,USA
+TXN000043,ACC10038,30/03/2024,21:33:21,-60,CAD,Tim Hortons,5814,Tim Hortons Toronto Order,Food & Drink,Coffee Shops,debit,FALSE,,401,Toronto,ON,CAN
+TXN000044,ACC10039,02/04/2024,12:52:44,-100,GBP,TFL,4111,Transport for London Fare,Transportation,Public Transit,debit,FALSE,,780,London,,GBR
+TXN000045,ACC10040,31/03/2024,13:58:34,-75,USD,GEICO,6300,GEICO Renters Insurance,Insurance,Renters,payment,TRUE,monthly,230,Austin,TX,USA
+TXN000046,ACC10041,03/04/2024,10:27:13,-115.2,USD,Amazon,5942,Amazon Home Essentials,Home,Household Goods,debit,FALSE,,780.93,Seattle,WA,USA
+TXN000047,ACC10042,05/04/2024,9:23:03,-55,USD,Lyft,4121,Lyft Ride Austin,Transportation,Taxi/Rideshare,debit,FALSE,,320,Austin,TX,USA
+TXN000048,ACC10043,29/03/2024,19:11:40,-1,USD,,,Account Verification Debit,Other,,debit,FALSE,,999,,,USA
+TXN000049,ACC10044,30/03/2024,15:22:51,-1500,CHF,Luxury Autos,5511,Luxury Autos Down Payment,Transportation,Vehicle,debit,FALSE,,1000,Zurich,,CHE
+TXN000050,ACC10045,01/04/2024,20:04:07,200,EUR,Deutsche Bank,6011,Incoming Transfer,Transfer,Bank Transfer,credit,FALSE,,700,Munich,,DEU
+TXN820001,ACC10001,15/06/2023,14:23:10,-85.22,USD,Whole Foods Market,5411,Whole Foods Market - San Francisco CA,Groceries,Supermarkets,debit,FALSE,,3218.54,San Francisco,CA,USA
+TXN820002,ACC10002,01/06/2023,,2450,USD,Acme Payroll Inc.,0,Payroll direct deposit,Salary,,deposit,TRUE,monthly,4120.32,,,USA
+TXN820003,ACC10001,19/06/2023,8:05:47,-29.75,USD,Uber,4121,Uber trip - New York NY,Transportation,Ride Sharing,payment,FALSE,,3188.79,New York,NY,USA
+TXN820004,ACC10003,04/06/2023,10:12:16,-102.11,USD,PG&E,4900,PG&E electricity June,Utilities,Electric,debit,TRUE,monthly,1576.41,Oakland,CA,USA
+TXN820005,ACC10004,10/06/2023,19:47:02,-46.98,USD,Chipotle,5812,Chipotle order - Seattle WA,Food & Drink,Fast Food,debit,FALSE,,628.52,Seattle,WA,USA
+TXN820006,ACC10005,14/06/2023,16:18:38,250,USD,,0,Transfer from external account,Transfer,Incoming,deposit,FALSE,,1450,,,USA
+TXN820007,ACC10006,12/06/2023,13:30:44,-163.45,USD,Sunset Villas,6513,Rent payment - June,Rent,Apartment,payment,TRUE,monthly,1171.11,Austin,TX,USA
+TXN820008,ACC10004,21/06/2023,15:01:32,97.34,USD,IRS Refund,0,IRS direct deposit refund,Refund,Tax,credit,FALSE,,725.86,,,USA
+TXN820009,ACC10007,13/06/2023,7:22:17,-21.79,USD,AMC Theatres,7832,Movie ticket purchase,Entertainment,Movies,debit,FALSE,,314.41,Chicago,IL,USA
+TXN820010,ACC10008,20/06/2023,9:08:31,-4.5,USD,,6011,ATM withdrawal fee,Fees,ATM,withdrawal,FALSE,,1236.98,,,USA
+TXN820011,ACC10009,05/06/2023,17:43:59,-120,USD,Blue Cross Health,6300,June health insurance premium,Insurance,Health,payment,TRUE,monthly,954.55,Houston,TX,USA
+TXN820012,ACC10010,11/06/2023,12:55:16,-97.6,USD,,0,Internal transfer out,Transfer,Outgoing,transfer,FALSE,,227.21,,,USA
+TXN820013,ACC10011,18/06/2023,11:40:05,-41.18,USD,Safeway,5411,Groceries - Safeway,Groceries,Supermarkets,debit,FALSE,,1791.3,Phoenix,AZ,USA
+TXN820014,ACC10012,07/06/2023,21:11:24,1200,USD,,0,Bank deposit,Income,Bonus,deposit,FALSE,,1544.34,,,USA
+TXN820015,ACC10013,22/06/2023,7:58:50,-76.29,USD,IKEA,5712,IKEA home goods,Home,Furnishings,debit,FALSE,,685.77,Los Angeles,CA,USA
+TXN820016,ACC10014,09/06/2023,18:02:36,-13.15,USD,Netflix,4899,Netflix subscription,Entertainment,Streaming,debit,TRUE,monthly,988,Austin,TX,USA
+TXN820017,ACC10015,03/06/2023,15:12:06,-2.5,USD,,6011,Monthly account maintenance fee,Fees,Account Maintenance,debit,FALSE,,131.45,,,USA
+TXN820018,ACC10016,19/06/2023,7:13:51,-48.79,USD,Starbucks,5814,Starbucks - Seattle WA,Food & Drink,Coffee Shop,debit,FALSE,,876.38,Seattle,WA,USA
+TXN820019,ACC10017,21/06/2023,20:35:19,-93.67,USD,Lyft,4121,Lyft ride - Chicago IL,Transportation,Ride Sharing,debit,FALSE,,561.23,Chicago,IL,USA
+TXN820020,ACC10018,11/06/2023,9:15:13,200,USD,,0,Transfer from savings,Transfer,Incoming,deposit,FALSE,,367.19,,,USA
+TXN820021,ACC10019,16/06/2023,22:39:34,-189.99,USD,Apple Store,5732,Apple Store - Los Angeles CA,Home,Electronics,debit,FALSE,,512,Los Angeles,CA,USA
+TXN820022,ACC10020,13/06/2023,5:01:15,-0.01,USD,,0,Micro debit test,Other,,debit,FALSE,,100,,,USA
+TXN820023,ACC10021,06/06/2023,11:23:49,-55,USD,Comcast,4899,Internet bill June,Utilities,Internet,payment,TRUE,monthly,846.17,San Francisco,CA,USA
+TXN820024,ACC10022,17/06/2023,10:22:05,110,USD,Venmo,4829,Venmo incoming transfer,Transfer,Incoming,deposit,FALSE,,218.12,,,USA
+TXN820025,ACC10023,18/06/2023,18:49:22,-120,USD,State Farm,6300,Car insurance premium,Insurance,Auto,payment,TRUE,monthly,894.65,Seattle,WA,USA
+TXN820026,ACC10024,15/06/2023,23:54:58,-15,USD,Spotify,5735,Spotify subscription,Entertainment,Music Streaming,payment,TRUE,monthly,632.42,San Francisco,CA,USA
+TXN820027,ACC10011,25/06/2023,14:44:33,-0.01,USD,,0,Micro test debit,Other,,debit,FALSE,,1791.29,,,USA
+TXN820028,ACC10025,14/06/2023,7:11:45,-57.67,USD,Trader Joe's,5411,Grocery store purchase,Groceries,Supermarkets,debit,FALSE,,729.51,San Francisco,CA,USA
+TXN820029,ACC10026,22/06/2023,13:55:22,-89,USD,United Airlines,4511,United Airlines ticket,Travel,Airfare,payment,FALSE,,1211.44,Chicago,IL,USA
+TXN820030,ACC10027,07/06/2023,16:09:12,1570,EUR,Lotto Corp,7996,Lottery winnings payout,Income,Lottery,credit,FALSE,,2221.17,Munich,BY,DEU
+TXN820031,ACC10028,08/06/2023,11:44:08,-48.9,EUR,Edeka,5411,Groceries - Edeka,Groceries,Supermarkets,debit,FALSE,,841.1,Berlin,BE,DEU
+TXN820032,ACC10029,09/06/2023,14:39:10,-1100,EUR,AlpenResort,7011,Hotel stay - Zermatt,Travel,Hotel,debit,FALSE,,301,Zermatt,,CHE
+TXN820033,ACC10030,16/06/2023,12:16:22,120,CHF,Swiss Refunds AG,0,Swiss tax refund,Refund,Tax,credit,FALSE,,620,Zurich,,CHE
+TXN820034,ACC10031,05/06/2023,9:05:29,-1,CHF,,6011,ATM withdrawal fee,Fees,ATM,withdrawal,FALSE,,799,,,CHE
+TXN820035,ACC10032,14/06/2023,10:34:36,-35.12,EUR,Carrefour,5411,Groceries - Carrefour,Groceries,Supermarkets,debit,FALSE,,1101.81,Paris,IDF,FRA
+TXN820036,ACC10033,18/06/2023,13:52:44,200000,JPY,Mizuho Bank,6011,Large deposit,Income,Savings,deposit,FALSE,,1201000,Tokyo,,JPN
+TXN820037,ACC10034,12/06/2023,18:46:28,-78000,JPY,Toyota Motors,5511,Vehicle purchase,Transportation,Vehicle,payment,FALSE,,1120000,Osaka,,JPN
+TXN820038,ACC10035,10/06/2023,21:50:13,-180.55,CAD,Metro,5411,Metro groceries - Toronto,Groceries,Supermarkets,debit,FALSE,,451.12,Toronto,ON,CAN
+TXN820039,ACC10036,15/06/2023,10:00:11,-91,CAD,Sun Life,6300,Life insurance premium,Insurance,Life,payment,TRUE,monthly,1200,Toronto,ON,CAN
+TXN820040,ACC10037,08/06/2023,,120,CAD,,0,Bank transfer,Transfer,Incoming,deposit,FALSE,,320.11,,,CAN
+TXN820041,ACC10038,13/06/2023,19:57:28,-200,GBP,British Gas,4900,Utility bill payment,Utilities,Gas,payment,TRUE,monthly,942,London,,GBR
+TXN820042,ACC10039,20/06/2023,21:31:46,-6.75,GBP,,6011,ATM withdrawal fee,Fees,ATM,withdrawal,FALSE,,782,,,GBR
+TXN820043,ACC10040,12/06/2023,12:20:33,20,GBP,HMRC,0,Tax refund,Refund,Tax,credit,FALSE,,801,London,,GBR
+TXN820044,ACC10041,18/06/2023,9:12:23,-133.9,EUR,SNCF,4112,Train ticket purchase,Transportation,Rail,debit,FALSE,,799.11,Paris,IDF,FRA
+TXN820045,ACC10042,14/06/2023,17:47:15,-1250,EUR,Luxury Autos,5511,Auto purchase - Berlin,Transportation,Vehicle,payment,FALSE,,1123.9,Berlin,BE,DEU
+TXN820046,ACC10043,15/06/2023,8:31:56,-6.25,USD,,6011,ATM withdrawal fee,Fees,ATM,withdrawal,FALSE,,1311.12,,,USA
+TXN820047,ACC10044,13/06/2023,20:10:44,0,USD,,0,Test transaction,Other,,deposit,FALSE,,500,,,USA
+TXN820048,ACC10045,09/06/2023,17:30:00,-125,USD,Allstate,6300,Homeowners insurance,Insurance,Home,payment,TRUE,monthly,1750,Phoenix,AZ,USA
+TXN820049,ACC10046,19/06/2023,14:11:21,-195.36,USD,PG&E,4900,PG&E utility bill,Utilities,Electric,payment,TRUE,monthly,1221.99,Oakland,CA,USA
+TXN820050,ACC10047,08/06/2023,6:23:16,-1200,USD,Sunset Villas,6513,Monthly rent payment,Rent,Apartment,payment,TRUE,monthly,2150,San Francisco,CA,USA
+TXN300001,ACC40001,02/10/2023,9:18:22,-127.43,USD,Whole Foods Market,5411,Whole Foods Market SF CA 1023,Groceries,Supermarkets,debit,FALSE,,3220.56,San Francisco,CA,USA
+TXN300002,ACC40002,02/10/2023,19:01:10,-79.99,USD,PG&E,4900,PG&E Monthly Electricity Bill,Utilities,Electricity,payment,TRUE,monthly,1519.27,Oakland,CA,USA
+TXN300003,ACC40003,03/10/2023,8:45:21,2000,USD,Wave Payroll,0,Direct Deposit Payroll - Wave,Salary,,deposit,TRUE,monthly,4125.1,,,USA
+TXN300004,ACC40004,04/10/2023,12:23:57,-22.67,USD,Starbucks,5814,Starbucks Coffee Shop 2110,Food & Drink,Coffee Shops,debit,FALSE,,1198.57,Seattle,WA,USA
+TXN300005,ACC40005,04/10/2023,7:31:40,-1250,USD,Sunset Villas,6513,Rent Payment Sunset Villas,Rent,Apartment,payment,TRUE,monthly,2300.42,Austin,TX,USA
+TXN300006,ACC40001,05/10/2023,17:10:10,-14.5,USD,Uber,4121,Uber Trip 10/5 Downtown,Transportation,Rideshare,debit,FALSE,,3206.06,San Francisco,CA,USA
+TXN300007,ACC40002,05/10/2023,12:12:12,-76.23,USD,Safeway,5411,Safeway Grocery Market,Groceries,Supermarkets,debit,FALSE,,1443.04,San Jose,CA,USA
+TXN300008,ACC40003,06/10/2023,10:45:30,-13.75,USD,Netflix,4899,Netflix Monthly Subscription,Entertainment,Streaming Services,payment,TRUE,monthly,4111.35,,,USA
+TXN300009,ACC40004,07/10/2023,18:20:08,-48.2,USD,Shell Oil,5541,Shell Gasoline Station 307,Transportation,Gasoline,debit,FALSE,,1150.37,Los Angeles,CA,USA
+TXN300010,ACC40005,07/10/2023,15:50:36,-75.75,USD,Blue Cross Health,6300,Health Insurance Payment,Insurance,Health,payment,TRUE,monthly,2224.67,,,USA
+TXN300011,ACC40001,08/10/2023,13:25:43,20,USD,Starbucks,5814,Refund Starbucks Coffee,Refund,Purchase Refund,credit,FALSE,,3226.06,Seattle,WA,USA
+TXN300012,ACC40002,08/10/2023,7:02:18,-3.5,USD,,6011,ATM Withdrawal Fee,Fees,ATM Fee,withdrawal,FALSE,,1439.54,,,USA
+TXN300013,ACC40003,09/10/2023,11:31:55,-105,USD,Comcast,4899,Comcast Cable Bill,Utilities,Internet,payment,TRUE,monthly,4006.35,Chicago,IL,USA
+TXN300014,ACC40004,09/10/2023,19:41:00,-17.89,USD,Uber,4121,Uber Trip 10/9 Uptown,Transportation,Rideshare,debit,FALSE,,1132.48,New York,NY,USA
+TXN300015,ACC40005,10/10/2023,8:09:31,1200,USD,ACH Transfer,0,Incoming Transfer via ACH,Transfer,ACH In,deposit,FALSE,,3424.67,,,USA
+TXN300016,ACC40001,10/10/2023,17:45:12,-54.3,USD,Lyft,4121,Lyft Ride Home 10/10,Transportation,Rideshare,debit,FALSE,,3171.76,Austin,TX,USA
+TXN300017,ACC40002,11/10/2023,13:50:26,-9.99,USD,Spotify,5735,Spotify Subscription,Entertainment,Streaming Services,payment,TRUE,monthly,1429.55,,,USA
+TXN300018,ACC40003,11/10/2023,8:40:00,-2.5,USD,,6012,Monthly Service Fee,Fees,Account Maintenance,debit,FALSE,,4003.85,,,USA
+TXN300019,ACC40004,12/10/2023,21:15:23,-57.99,USD,Trader Joe's,5411,Trader Joe's Grocery 123,Groceries,Supermarkets,debit,FALSE,,1074.49,Chicago,IL,USA
+TXN300020,ACC40005,12/10/2023,18:18:18,-4.99,USD,,6011,ATM Withdrawal Fee,Fees,ATM Fee,withdrawal,FALSE,,3419.68,,,USA
+TXN300021,ACC40001,13/10/2023,16:35:38,-132.6,USD,Costco,5300,Costco Bulk Purchase,Groceries,Warehouse Clubs,debit,FALSE,,3039.16,Houston,TX,USA
+TXN300022,ACC40002,13/10/2023,14:01:55,-22.45,USD,Taco Bell,5812,Taco Bell Fast Food,Food & Drink,Fast Food,debit,FALSE,,1407.1,Phoenix,AZ,USA
+TXN300023,ACC40003,14/10/2023,15:12:40,-184.85,USD,IKEA,5712,IKEA Furniture Purchase,Home,Furniture,debit,FALSE,,3819,Seattle,WA,USA
+TXN300024,ACC40004,14/10/2023,9:00:00,0.01,USD,,0,Test Transaction,Other,,credit,FALSE,,1074.5,,,USA
+TXN300025,ACC40005,14/10/2023,,-2000,EUR,AlpenResort Zermatt,7011,AlpenResort Hotel Booking,Travel,Hotel,debit,FALSE,,1419.68,Zermatt,,CHE
+TXN300026,ACC40001,15/10/2023,13:03:03,-1,USD,,6011,ATM Withdrawal Fee,Fees,ATM Fee,withdrawal,FALSE,,3038.16,,,USA
+TXN300027,ACC40002,16/10/2023,17:21:31,500,USD,Venmo Transfer,0,Venmo P2P Transfer,Transfer,P2P In,deposit,FALSE,,1907.1,,,USA
+TXN300028,ACC40003,16/10/2023,20:11:40,-8.99,USD,Amazon,5942,Amazon Marketplace Purchase,Other,,debit,FALSE,,3810.01,Seattle,WA,USA
+TXN300029,ACC40004,17/10/2023,12:00:00,-250,EUR,IKEA,5712,IKEA Paris Purchase,Home,Furniture,debit,FALSE,,824.5,Paris,,FRA
+TXN300030,ACC40005,17/10/2023,11:22:33,0,USD,,0,Zero Value Test,Other,,deposit,FALSE,,1419.68,,,USA
+TXN300031,ACC40001,18/10/2023,10:10:10,-50,USD,Walgreens,5912,Walgreens Pharmacy Purchase,Other,,debit,FALSE,,2988.16,Chicago,IL,USA
+TXN300032,ACC40002,19/10/2023,,-13.95,USD,,6011,ATM Withdrawal Fee,Fees,ATM Fee,withdrawal,FALSE,,1893.15,,,USA
+TXN300033,ACC40003,19/10/2023,21:09:09,-2,USD,,6012,Monthly Service Fee,Fees,Account Maintenance,debit,FALSE,,3808.01,,,USA
+TXN300034,ACC40004,20/10/2023,17:45:12,-77.5,USD,Uber,4121,Uber Trip Airport,Transportation,Rideshare,debit,FALSE,,747,Houston,TX,USA
+TXN300035,ACC40005,20/10/2023,10:45:50,-15,USD,Peet's Coffee,5814,Peet's Coffee Purchase,Food & Drink,Coffee Shops,debit,FALSE,,1404.68,San Francisco,CA,USA
+TXN300036,ACC40001,21/10/2023,12:12:12,-99,USD,PG&E,4900,PG&E Utility Bill,Utilities,Electricity,payment,TRUE,monthly,2889.16,Oakland,CA,USA
+TXN300037,ACC40002,22/10/2023,22:43:20,-19.9,USD,Uber,4121,Uber Trip Downtown,Transportation,Rideshare,debit,FALSE,,1873.25,New York,NY,USA
+TXN300038,ACC40003,23/10/2023,13:01:01,75,USD,Amazon,5942,Amazon Refund - Damaged Item,Refund,Purchase Refund,credit,FALSE,,3883.01,Seattle,WA,USA
+TXN300039,ACC40004,24/10/2023,18:23:54,-2100,EUR,Lufthansa,4511,Lufthansa Flight Booking,Travel,Airfare,payment,FALSE,,-1353,Munich,,DEU
+TXN300040,ACC40005,24/10/2023,13:13:13,-66.67,USD,PG&E,4900,PG&E Utility Payment,Utilities,Electricity,payment,TRUE,monthly,1338.01,Oakland,CA,USA
+TXN300041,ACC40001,25/10/2023,10:05:45,-6.5,USD,,6012,Account Maintenance Fee,Fees,Account Maintenance,debit,FALSE,,2882.66,,,USA
+TXN300042,ACC40002,25/10/2023,9:09:09,-85.75,USD,Blue Cross Health,6300,Health Insurance Payment,Insurance,Health,payment,TRUE,monthly,1787.5,,,USA
+TXN300043,ACC40003,25/10/2023,11:54:12,-110,USD,Comcast,4899,Comcast Cable Bill,Utilities,Internet,payment,TRUE,monthly,3773.01,Chicago,IL,USA
+TXN300044,ACC40004,26/10/2023,12:12:12,-40.75,USD,Safeway,5411,Safeway Grocery Store,Groceries,Supermarkets,debit,FALSE,,-1393.75,San Francisco,CA,USA
+TXN300045,ACC40005,27/10/2023,16:44:44,2485,USD,Chase Bank,0,Wire Transfer Incoming,Income,Wire Transfer,deposit,FALSE,,3823.01,,,USA
+TXN300046,ACC40001,27/10/2023,13:33:33,-250,EUR,IKEA Deutschland,5712,IKEA Munich Purchase,Home,Furniture,debit,FALSE,,2632.66,Munich,,DEU
+TXN300047,ACC40002,28/10/2023,18:18:18,-15.99,USD,Netflix,4899,Netflix Subscription Payment,Entertainment,Streaming Services,payment,TRUE,monthly,1771.51,,,USA
+TXN300048,ACC40003,29/10/2023,8:10:11,-11.25,USD,Starbucks,5814,Starbucks Breakfast Coffee,Food & Drink,Coffee Shops,debit,FALSE,,3761.76,Seattle,WA,USA
+TXN300049,ACC40004,30/10/2023,10:23:35,-1100,JPY,Tokyo Metro,4111,Tokyo Metro Rail Card,Transportation,Rail,payment,FALSE,,-2493.75,Tokyo,,JPN
+TXN300050,ACC40005,31/10/2023,14:14:14,-1337,USD,Sunset Villas,6513,October Rent Sunset Villas,Rent,Apartment,payment,TRUE,monthly,2486.01,Austin,TX,USA
+TXN000401,ACC10021,02/12/2023,15:08:36,-152.37,USD,Whole Foods Market,5411,Whole Foods Market - Grocery purchase,Groceries,Supermarkets,debit,FALSE,,2187.59,San Francisco,CA,USA
+TXN000402,ACC10022,04/12/2023,9:22:11,2300,USD,Steadfast Payroll Inc.,0,Direct deposit payroll,Salary,,deposit,TRUE,monthly,4312.91,,,USA
+TXN000403,ACC10103,05/12/2023,13:43:55,-47.6,USD,Uber,4121,Uber trip to downtown,Transportation,Ride Sharing,payment,FALSE,,1015.01,Chicago,IL,USA
+TXN000404,ACC10042,06/12/2023,10:05:50,-94.32,USD,PG&E,4911,PG&E Utility Bill Payment,Utilities,Electricity,payment,TRUE,monthly,1408.45,San Jose,CA,USA
+TXN000405,ACC10087,06/12/2023,19:12:37,-25.17,USD,Starbucks,5814,Starbucks coffee and snack,Food & Drink,Coffee Shops,debit,FALSE,,784.72,Seattle,WA,USA
+TXN000406,ACC10234,07/12/2023,,0,USD,,0,Internal system transfer,Transfer,,transfer,FALSE,,3201.16,,,USA
+TXN000407,ACC10015,09/12/2023,17:19:32,-150,USD,,0,Transfer to external account,Transfer,External Transfer,transfer,FALSE,,1422.94,,,USA
+TXN000408,ACC10110,10/12/2023,11:36:45,1500,EUR,Lotto Corp,7996,Lotto Corp - prize payout,Income,Lottery,credit,FALSE,,1780,Berlin,,DEU
+TXN000409,ACC10022,11/12/2023,12:44:22,-1250,USD,Sunset Villas,6513,Sunset Villas - Monthly Rent,Rent,Apartment,debit,TRUE,monthly,3062.91,Austin,TX,USA
+TXN000410,ACC10044,11/12/2023,14:39:49,-62.45,USD,Safeway,5411,Safeway - grocery shopping,Groceries,Supermarkets,debit,FALSE,,986.25,Phoenix,AZ,USA
+TXN000411,ACC10022,12/12/2023,8:25:05,-59.99,USD,Netflix,4899,Netflix - subscription payment,Entertainment,Subscriptions,payment,TRUE,monthly,3002.92,,,USA
+TXN000412,ACC10109,12/12/2023,,-3.5,USD,,0,ATM withdrawal fee,Fees,ATM Fee,withdrawal,FALSE,,1176.13,,,USA
+TXN000413,ACC10045,13/12/2023,13:55:50,-12.75,USD,Bank of America,6011,Account maintenance fee,Fees,Account Maintenance,debit,FALSE,,1209.01,,,USA
+TXN000414,ACC10077,14/12/2023,7:29:44,-65.25,USD,Blue Cross Health,6300,Blue Cross Health - Insurance premium,Insurance,Health Insurance,payment,TRUE,monthly,2357.44,Houston,TX,USA
+TXN000415,ACC10211,14/12/2023,18:33:21,-195,USD,United Airlines,4511,United Airlines - flight booking,Travel,Airfare,debit,FALSE,,1312.04,New York,NY,USA
+TXN000416,ACC10026,15/12/2023,16:10:13,-1,USD,,0,Test transaction,Other,,withdrawal,FALSE,,523.2,,,USA
+TXN000417,ACC10234,15/12/2023,12:18:29,23.55,USD,,6010,Refund processed,Refund,Returned Goods,credit,FALSE,,3224.71,,,USA
+TXN000418,ACC10112,16/12/2023,20:44:52,-71.44,USD,Shell,5541,Shell - Gas purchase,Transportation,Fuel,payment,FALSE,,1812.11,Oakland,CA,USA
+TXN000419,ACC10105,17/12/2023,17:27:10,-137.89,USD,IKEA,5712,IKEA - Furniture purchase,Home,Furniture,debit,FALSE,,2211.17,Los Angeles,CA,USA
+TXN000420,ACC10022,18/12/2023,19:01:33,-88.65,USD,AMC Theatres,7832,AMC Theatres - Movie tickets,Entertainment,Movies,payment,FALSE,,2914.27,Dallas,TX,USA
+TXN000421,ACC10012,19/12/2023,12:57:23,-45.99,USD,Taco Bell,5812,Taco Bell - Fast food,Food & Drink,Fast Food,debit,FALSE,,968.51,Houston,TX,USA
+TXN000422,ACC10034,19/12/2023,18:51:15,-83.22,USD,Lyft,4121,Lyft ride - airport,Transportation,Ride Sharing,debit,FALSE,,1762.9,Seattle,WA,USA
+TXN000423,ACC10055,19/12/2023,,-1.59,USD,,0,Account inactivity fee,Fees,Account Maintenance,debit,FALSE,,1341.99,,,USA
+TXN000424,ACC10111,20/12/2023,9:40:12,2500,USD,SunTrust Payroll,0,Direct deposit payroll,Salary,,deposit,TRUE,monthly,3877.11,,,USA
+TXN000425,ACC10102,21/12/2023,8:15:22,-78.5,USD,Farmers Insurance,6399,Farmers Insurance - policy premium,Insurance,Auto Insurance,payment,TRUE,monthly,1098.01,Oakland,CA,USA
+TXN000426,ACC10113,21/12/2023,14:12:01,125,USD,Amazon Refund,5999,Amazon - refund processed,Refund,Returned Goods,credit,FALSE,,1336.98,,,USA
+TXN000427,ACC10021,22/12/2023,10:39:00,-89.7,USD,Trader Joe's,5411,Trader Joe's - grocery shopping,Groceries,Specialty Grocery,debit,FALSE,,2097.89,Austin,TX,USA
+TXN000428,ACC10203,22/12/2023,20:22:19,-155.99,USD,Best Buy,5732,Best Buy - Electronics purchase,Home,Electronics,debit,FALSE,,1721.31,Dallas,TX,USA
+TXN000429,ACC10113,23/12/2023,16:52:34,-115.93,USD,Netflix,4899,Netflix - subscription payment,Entertainment,Subscriptions,payment,TRUE,monthly,1221.05,,,USA
+TXN000430,ACC10033,24/12/2023,7:31:10,0.01,USD,,0,Test micro deposit,Other,,deposit,FALSE,,1120.91,,,USA
+TXN000431,ACC10045,24/12/2023,11:13:57,-63.19,USD,Safeway,5411,Safeway - grocery shopping,Groceries,Supermarkets,debit,FALSE,,1145.82,San Jose,CA,USA
+TXN000432,ACC10099,25/12/2023,11:29:59,925.15,EUR,AlpenResort,7011,AlpenResort - Hotel refund,Refund,Hotel,credit,FALSE,,1455.8,Zermatt,,CHE
+TXN000433,ACC10054,25/12/2023,14:23:05,-11000,CHF,Luxury Autos,5511,Luxury Autos - Vehicle purchase,Transportation,Car Purchase,debit,FALSE,,9021.93,Zurich,,CHE
+TXN000434,ACC10108,26/12/2023,9:53:08,-107.89,USD,PG&E,4911,PG&E Utility Bill Payment,Utilities,Electricity,payment,TRUE,monthly,1349.12,San Francisco,CA,USA
+TXN000435,ACC10021,26/12/2023,,-0.01,USD,,0,Internal test charge,Other,,debit,FALSE,,2097.88,,,USA
+TXN000436,ACC10234,28/12/2023,18:02:19,-112,USD,Uber,4121,Uber ride to airport,Transportation,Ride Sharing,payment,FALSE,,3112.71,New York,NY,USA
+TXN000437,ACC10015,28/12/2023,22:12:14,-60.12,USD,Blue Cross Health,6300,Blue Cross Health - Insurance premium,Insurance,Health Insurance,payment,TRUE,monthly,1362.82,Phoenix,AZ,USA
+TXN000438,ACC10044,29/12/2023,12:13:19,2000,USD,Sutter Payroll,0,Direct deposit - payroll,Salary,,credit,TRUE,monthly,2986.25,,,USA
+TXN000439,ACC10022,29/12/2023,20:45:56,-135,USD,PG&E,4911,PG&E Utility Bill Payment,Utilities,Electricity,payment,TRUE,monthly,2779.27,San Francisco,CA,USA
+TXN000440,ACC10108,30/12/2023,9:04:29,-88.45,USD,Shell,5541,Shell - Gas purchase,Transportation,Fuel,debit,FALSE,,1260.67,Oakland,CA,USA
+TXN000441,ACC10015,30/12/2023,14:44:01,-200,USD,Uber,4121,Uber - ride for 4,Transportation,Ride Sharing,debit,FALSE,,1162.82,Chicago,IL,USA
+TXN000442,ACC10212,31/12/2023,16:22:22,-57.77,USD,Starbucks,5814,Starbucks - drinks,Food & Drink,Coffee Shops,debit,FALSE,,1056.51,Seattle,WA,USA
+TXN000443,ACC10099,31/12/2023,21:11:21,-148.2,EUR,Carrefour,5411,Carrefour - groceries,Groceries,Supermarkets,debit,FALSE,,1307.6,Paris,,FRA
+TXN000444,ACC10110,01/01/2024,10:35:12,-377.99,USD,Sunset Villas,6513,Sunset Villas - Rent payment,Rent,Apartment,payment,TRUE,monthly,1402.01,Austin,TX,USA
+TXN000445,ACC10102,01/01/2024,17:57:36,-243.21,USD,PG&E,4911,PG&E Utility Bill Payment,Utilities,Electricity,payment,TRUE,monthly,854.8,San Francisco,CA,USA
+TXN000446,ACC10054,02/01/2024,11:44:38,1000000,CHF,Lotto Corp,7996,Lotto Corp - lottery payout,Income,Lottery,deposit,FALSE,,1009021.93,Zurich,,CHE
+TXN000447,ACC10026,02/01/2024,17:18:48,87.56,USD,PayPal,4829,PayPal - refund processed,Refund,Online Payment,credit,FALSE,,610.76,,,USA
+TXN000448,ACC10087,03/01/2024,15:32:07,-67.11,USD,Blue Cross Health,6300,Blue Cross Health - Insurance premium,Insurance,Health Insurance,payment,TRUE,monthly,717.61,Seattle,WA,USA
+TXN000449,ACC10045,03/01/2024,8:08:41,-178.23,USD,Uber,4121,Uber trip downtown,Transportation,Ride Sharing,debit,FALSE,,967.59,New York,NY,USA
+TXN000450,ACC10021,04/01/2024,12:58:15,-15,USD,Bank of America,6011,Account maintenance fee,Fees,Account Maintenance,debit,FALSE,,2082.88,,,USA
