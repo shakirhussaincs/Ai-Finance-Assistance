@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "AI Finance Assistant/frontend/dist/index.html"
+    }
+  ]
+}
+
